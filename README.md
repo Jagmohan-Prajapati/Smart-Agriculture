@@ -118,6 +118,8 @@ Edit
 http://localhost:3000
 (Optional) If models (.h5, .pkl) are missing, retrain them or download them again.
 
+---
+
 ### References
 
 -FastAPI Documentation
@@ -127,8 +129,12 @@ http://localhost:3000
 -TensorFlow/Keras
 -Shadcn UI
 
+---
+
 ### Acknowledgements
 -Thanks to all open-source contributors and the agriculture datasets available through Kaggle and public research initiatives.
+
+---
 
 ###📩 Contact
 -Feel free to connect for collaboration, improvements, or queries:
