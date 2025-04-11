@@ -118,21 +118,21 @@ Edit
 http://localhost:3000
 (Optional) If models (.h5, .pkl) are missing, retrain them or download them again.
 
-# References
+### References
 
-FastAPI Documentation
-Next.js Documentation
-MongoDB
-Scikit-Learn
-TensorFlow/Keras
-Shadcn UI
+-FastAPI Documentation
+-Next.js Documentation
+-MongoDB
+-Scikit-Learn
+-TensorFlow/Keras
+-Shadcn UI
 
-# Acknowledgements
-Thanks to all open-source contributors and the agriculture datasets available through Kaggle and public research initiatives.
+### Acknowledgements
+-Thanks to all open-source contributors and the agriculture datasets available through Kaggle and public research initiatives.
 
-📩 Contact
-Feel free to connect for collaboration, improvements, or queries:
+###📩 Contact
+-Feel free to connect for collaboration, improvements, or queries:
 
-Email: jagmohanprajapat003@gmail.com
+-Email: jagmohanprajapat003@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/jagmohan-prajapati-aaa117200/
+-LinkedIn: https://www.linkedin.com/in/jagmohan-prajapati-aaa117200/
