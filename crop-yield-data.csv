@@ -1,0 +1,297 @@
+crop,temperature,rainfall,soilType,season,expectedYield,region,date
+Rice,28,950,Clay,Kharif,3200,Bangalore Rural,2023-06-15
+Ragi,26,800,Red Loam,Kharif,1800,Bangalore Urban,2023-07-22
+Maize,27,850,Red Sandy,Kharif,3500,Ramanagara,2023-08-05
+Tomato,24,700,Black Clay,Rabi,12500,Bangalore Rural,2023-01-12
+Onion,25,650,Red Loam,Rabi,9800,Chikkaballapur,2023-02-18
+Potato,22,750,Black Clay,Rabi,14500,Bangalore Rural,2023-12-10
+Groundnut,30,600,Red Sandy,Summer,2200,Tumakuru,2023-04-25
+Sunflower,29,550,Red Loam,Summer,1500,Davanagere,2023-03-30
+Coffee,23,1200,Laterite,Whole Year,950,Chikmagalur,2023-09-14
+Sugarcane,31,1100,Clay,Whole Year,48000,Mandya,2023-11-05
+Rice,27,1000,Clay,Kharif,3400,Bangalore Rural,2023-06-20
+Ragi,25,850,Red Loam,Kharif,1900,Bangalore Urban,2023-07-15
+Maize,28,900,Red Sandy,Kharif,3700,Ramanagara,2023-08-10
+Tomato,23,750,Black Clay,Rabi,13000,Bangalore Rural,2023-01-20
+Onion,24,700,Red Loam,Rabi,10200,Chikkaballapur,2023-02-10
+Potato,21,800,Black Clay,Rabi,15000,Bangalore Rural,2023-12-15
+Groundnut,31,650,Red Sandy,Summer,2400,Tumakuru,2023-04-15
+Sunflower,30,600,Red Loam,Summer,1600,Davanagere,2023-03-25
+Coffee,22,1250,Laterite,Whole Year,980,Chikmagalur,2023-09-20
+Sugarcane,32,1150,Clay,Whole Year,50000,Mandya,2023-11-10
+Rice,29,900,Clay,Kharif,3000,Bangalore Rural,2023-07-05
+Ragi,27,750,Red Loam,Kharif,1700,Bangalore Urban,2023-08-12
+Maize,26,800,Red Sandy,Kharif,3300,Ramanagara,2023-09-01
+Tomato,25,650,Black Clay,Rabi,12000,Bangalore Rural,2023-02-05
+Onion,26,600,Red Loam,Rabi,9500,Chikkaballapur,2023-01-25
+Potato,23,700,Black Clay,Rabi,14000,Bangalore Rural,2023-11-20
+Groundnut,29,550,Red Sandy,Summer,2000,Tumakuru,2023-05-10
+Sunflower,28,500,Red Loam,Summer,1400,Davanagere,2023-04-20
+Coffee,24,1100,Laterite,Whole Year,920,Chikmagalur,2023-10-15
+Sugarcane,30,1000,Clay,Whole Year,46000,Mandya,2023-12-05
+Rice,26,1100,Clay,Kharif,3600,Bangalore Rural,2023-07-25
+Ragi,24,950,Red Loam,Kharif,2100,Bangalore Urban,2023-08-18
+Maize,25,1000,Red Sandy,Kharif,3900,Ramanagara,2023-09-05
+Tomato,22,800,Black Clay,Rabi,13500,Bangalore Rural,2023-01-30
+Onion,23,750,Red Loam,Rabi,10500,Chikkaballapur,2023-02-22
+Potato,20,850,Black Clay,Rabi,15500,Bangalore Rural,2023-12-20
+Groundnut,32,700,Red Sandy,Summer,2600,Tumakuru,2023-04-30
+Sunflower,31,650,Red Loam,Summer,1700,Davanagere,2023-03-15
+Coffee,21,1300,Laterite,Whole Year,1000,Chikmagalur,2023-09-25
+Sugarcane,33,1200,Clay,Whole Year,52000,Mandya,2023-11-15
+Rice,30,850,Clay,Kharif,2800,Bangalore Rural,2023-06-30
+Ragi,28,700,Red Loam,Kharif,1600,Bangalore Urban,2023-07-28
+Maize,29,750,Red Sandy,Kharif,3100,Ramanagara,2023-08-15
+Tomato,26,600,Black Clay,Rabi,11500,Bangalore Rural,2023-02-15
+Onion,27,550,Red Loam,Rabi,9300,Chikkaballapur,2023-01-18
+Potato,24,650,Black Clay,Rabi,13500,Bangalore Rural,2023-12-05
+Groundnut,28,500,Red Sandy,Summer,1900,Tumakuru,2023-05-05
+Sunflower,27,450,Red Loam,Summer,1300,Davanagere,2023-04-10
+Coffee,25,1150,Laterite,Whole Year,940,Chikmagalur,2023-10-05
+Sugarcane,29,1050,Clay,Whole Year,47000,Mandya,2023-12-15
+Rice,27,1200,Clay,Kharif,3800,Bangalore Rural,2023-08-01
+Ragi,25,1050,Red Loam,Kharif,2200,Bangalore Urban,2023-09-08
+Maize,26,1100,Red Sandy,Kharif,4100,Ramanagara,2023-10-12
+Tomato,21,900,Black Clay,Rabi,14000,Bangalore Rural,2023-03-05
+Onion,22,850,Red Loam,Rabi,11000,Chikkaballapur,2023-02-28
+Potato,19,900,Black Clay,Rabi,16000,Bangalore Rural,2023-01-10
+Groundnut,33,750,Red Sandy,Summer,2800,Tumakuru,2023-05-20
+Sunflower,32,700,Red Loam,Summer,1800,Davanagere,2023-04-05
+Coffee,20,1350,Laterite,Whole Year,1020,Chikmagalur,2023-11-10
+Sugarcane,34,1250,Clay,Whole Year,54000,Mandya,2023-12-25
+Rice,25,1300,Clay,Kharif,4000,Bangalore Rural,2023-09-15
+Ragi,23,1150,Red Loam,Kharif,2400,Bangalore Urban,2023-10-22
+Maize,24,1200,Red Sandy,Kharif,4300,Ramanagara,2023-11-18
+Tomato,20,1000,Black Clay,Rabi,14500,Bangalore Rural,2023-04-12
+Onion,21,950,Red Loam,Rabi,11500,Chikkaballapur,2023-03-28
+Potato,18,950,Black Clay,Rabi,16500,Bangalore Rural,2023-02-14
+Groundnut,27,800,Red Sandy,Summer,3000,Tumakuru,2023-06-15
+Sunflower,26,750,Red Loam,Summer,1900,Davanagere,2023-05-25
+Coffee,19,1400,Laterite,Whole Year,1050,Chikmagalur,2023-12-10
+Sugarcane,28,1300,Clay,Whole Year,55000,Mandya,2023-01-20
+Rice,26,1400,Clay,Kharif,4200,Bangalore Rural,2023-10-05
+Ragi,24,1250,Red Loam,Kharif,2600,Bangalore Urban,2023-11-12
+Maize,25,1300,Red Sandy,Kharif,4500,Ramanagara,2023-12-18
+Tomato,19,1100,Black Clay,Rabi,15000,Bangalore Rural,2023-05-15
+Onion,20,1050,Red Loam,Rabi,12000,Chikkaballapur,2023-04-28
+Potato,17,1000,Black Clay,Rabi,17000,Bangalore Rural,2023-03-14
+Groundnut,26,850,Red Sandy,Summer,3200,Tumakuru,2023-07-10
+Sunflower,25,800,Red Loam,Summer,2000,Davanagere,2023-06-20
+Coffee,18,1450,Laterite,Whole Year,1080,Chikmagalur,2023-01-05
+Sugarcane,27,1350,Clay,Whole Year,56000,Mandya,2023-02-15
+Rice,24,1500,Clay,Kharif,4400,Bangalore Rural,2023-11-20
+Ragi,22,1350,Red Loam,Kharif,2800,Bangalore Urban,2023-12-22
+Maize,23,1400,Red Sandy,Kharif,4700,Ramanagara,2023-01-18
+Tomato,18,1200,Black Clay,Rabi,15500,Bangalore Rural,2023-06-18
+Onion,19,1150,Red Loam,Rabi,12500,Chikkaballapur,2023-05-30
+Potato,16,1050,Black Clay,Rabi,17500,Bangalore Rural,2023-04-14
+Groundnut,25,900,Red Sandy,Summer,3400,Tumakuru,2023-08-05
+Sunflower,24,850,Red Loam,Summer,2100,Davanagere,2023-07-15
+Coffee,17,1500,Laterite,Whole Year,1100,Chikmagalur,2023-02-10
+Sugarcane,26,1400,Clay,Whole Year,57000,Mandya,2023-03-20
+Rice,23,1600,Clay,Kharif,4600,Bangalore Rural,2023-12-30
+Ragi,21,1450,Red Loam,Kharif,3000,Bangalore Urban,2023-01-22
+Maize,22,1500,Red Sandy,Kharif,4900,Ramanagara,2023-02-28
+Tomato,17,1300,Black Clay,Rabi,16000,Bangalore Rural,2023-07-20
+Onion,18,1250,Red Loam,Rabi,13000,Chikkaballapur,2023-06-28
+Potato,15,1100,Black Clay,Rabi,18000,Bangalore Rural,2023-05-14
+Groundnut,24,950,Red Sandy,Summer,3600,Tumakuru,2023-09-10
+Sunflower,23,900,Red Loam,Summer,2200,Davanagere,2023-08-15
+Coffee,16,1550,Laterite,Whole Year,1120,Chikmagalur,2023-03-15
+Sugarcane,25,1450,Clay,Whole Year,58000,Mandya,2023-04-20
+Rice,22,1700,Clay,Kharif,4800,Bangalore Rural,2023-01-15
+Ragi,20,1550,Red Loam,Kharif,3200,Bangalore Urban,2023-02-22
+Maize,21,1600,Red Sandy,Kharif,5100,Ramanagara,2023-03-30
+Tomato,16,1400,Black Clay,Rabi,16500,Bangalore Rural,2023-08-22
+Onion,17,1350,Red Loam,Rabi,13500,Chikkaballapur,2023-07-30
+Potato,14,1150,Black Clay,Rabi,18500,Bangalore Rural,2023-06-14
+Groundnut,23,1000,Red Sandy,Summer,3800,Tumakuru,2023-10-15
+Sunflower,22,950,Red Loam,Summer,2300,Davanagere,2023-09-20
+Coffee,15,1600,Laterite,Whole Year,1150,Chikmagalur,2023-04-15
+Sugarcane,24,1500,Clay,Whole Year,59000,Mandya,2023-05-20
+Rice,21,1800,Clay,Kharif,5000,Bangalore Rural,2023-02-10
+Ragi,19,1650,Red Loam,Kharif,3400,Bangalore Urban,2023-03-18
+Maize,20,1700,Red Sandy,Kharif,5300,Ramanagara,2023-04-25
+Tomato,15,1500,Black Clay,Rabi,17000,Bangalore Rural,2023-09-25
+Onion,16,1450,Red Loam,Rabi,14000,Chikkaballapur,2023-08-30
+Potato,13,1200,Black Clay,Rabi,19000,Bangalore Rural,2023-07-14
+Groundnut,22,1050,Red Sandy,Summer,4000,Tumakuru,2023-11-15
+Sunflower,21,1000,Red Loam,Summer,2400,Davanagere,2023-10-20
+Coffee,14,1650,Laterite,Whole Year,1180,Chikmagalur,2023-05-15
+Sugarcane,23,1550,Clay,Whole Year,60000,Mandya,2023-06-20
+Rice,20,1900,Clay,Kharif,5200,Bangalore Rural,2023-03-05
+Ragi,18,1750,Red Loam,Kharif,3600,Bangalore Urban,2023-04-12
+Maize,19,1800,Red Sandy,Kharif,5500,Ramanagara,2023-05-20
+Tomato,14,1600,Black Clay,Rabi,17500,Bangalore Rural,2023-10-28
+Onion,15,1550,Red Loam,Rabi,14500,Chikkaballapur,2023-09-30
+Potato,12,1250,Black Clay,Rabi,19500,Bangalore Rural,2023-08-14
+Groundnut,21,1100,Red Sandy,Summer,4200,Tumakuru,2023-12-15
+Sunflower,20,1050,Red Loam,Summer,2500,Davanagere,2023-11-20
+Coffee,13,1700,Laterite,Whole Year,1200,Chikmagalur,2023-06-15
+Sugarcane,22,1600,Clay,Whole Year,61000,Mandya,2023-07-20
+Rice,19,2000,Clay,Kharif,5400,Bangalore Rural,2023-04-10
+Ragi,17,1850,Red Loam,Kharif,3800,Bangalore Urban,2023-05-18
+Maize,18,1900,Red Sandy,Kharif,5700,Ramanagara,2023-06-25
+Tomato,13,1700,Black Clay,Rabi,18000,Bangalore Rural,2023-11-30
+Onion,14,1650,Red Loam,Rabi,15000,Chikkaballapur,2023-10-30
+Potato,11,1300,Black Clay,Rabi,20000,Bangalore Rural,2023-09-14
+Groundnut,20,1150,Red Sandy,Summer,4400,Tumakuru,2023-01-15
+Sunflower,19,1100,Red Loam,Summer,2600,Davanagere,2023-12-20
+Coffee,12,1750,Laterite,Whole Year,1220,Chikmagalur,2023-07-15
+Sugarcane,21,1650,Clay,Whole Year,62000,Mandya,2023-08-20
+Rice,18,2100,Clay,Kharif,5600,Bangalore Rural,2023-05-15
+Ragi,16,1950,Red Loam,Kharif,4000,Bangalore Urban,2023-06-22
+Maize,17,2000,Red Sandy,Kharif,5900,Ramanagara,2023-07-30
+Tomato,12,1800,Black Clay,Rabi,18500,Bangalore Rural,2023-12-30
+Onion,13,1750,Red Loam,Rabi,15500,Chikkaballapur,2023-11-30
+Potato,10,1350,Black Clay,Rabi,20500,Bangalore Rural,2023-10-14
+Groundnut,19,1200,Red Sandy,Summer,4600,Tumakuru,2023-02-15
+Sunflower,18,1150,Red Loam,Summer,2700,Davanagere,2023-01-20
+Coffee,11,1800,Laterite,Whole Year,1250,Chikmagalur,2023-08-15
+Sugarcane,20,1700,Clay,Whole Year,63000,Mandya,2023-09-20
+Rice,17,2200,Clay,Kharif,5800,Bangalore Rural,2023-06-20
+Ragi,15,2050,Red Loam,Kharif,4200,Bangalore Urban,2023-07-28
+Maize,16,2100,Red Sandy,Kharif,6100,Ramanagara,2023-08-30
+Tomato,11,1900,Black Clay,Rabi,19000,Bangalore Rural,2023-01-30
+Onion,12,1850,Red Loam,Rabi,16000,Chikkaballapur,2023-12-30
+Potato,9,1400,Black Clay,Rabi,21000,Bangalore Rural,2023-11-14
+Groundnut,18,1250,Red Sandy,Summer,4800,Tumakuru,2023-03-15
+Sunflower,17,1200,Red Loam,Summer,2800,Davanagere,2023-02-20
+Coffee,10,1850,Laterite,Whole Year,1280,Chikmagalur,2023-09-15
+Sugarcane,19,1750,Clay,Whole Year,64000,Mandya,2023-10-20
+Rice,16,2300,Clay,Kharif,6000,Bangalore Rural,2023-07-25
+Ragi,14,2150,Red Loam,Kharif,4400,Bangalore Urban,2023-08-30
+Maize,15,2200,Red Sandy,Kharif,6300,Ramanagara,2023-09-30
+Tomato,10,2000,Black Clay,Rabi,19500,Bangalore Rural,2023-02-28
+Onion,11,1950,Red Loam,Rabi,16500,Chikkaballapur,2023-01-30
+Potato,8,1450,Black Clay,Rabi,21500,Bangalore Rural,2023-12-14
+Groundnut,17,1300,Red Sandy,Summer,5000,Tumakuru,2023-04-15
+Sunflower,16,1250,Red Loam,Summer,2900,Davanagere,2023-03-20
+Coffee,9,1900,Laterite,Whole Year,1300,Chikmagalur,2023-10-15
+Sugarcane,18,1800,Clay,Whole Year,65000,Mandya,2023-11-20
+Rice,15,2400,Clay,Kharif,6200,Bangalore Rural,2023-08-30
+Ragi,13,2250,Red Loam,Kharif,4600,Bangalore Urban,2023-09-30
+Maize,14,2300,Red Sandy,Kharif,6500,Ramanagara,2023-10-30
+Tomato,9,2100,Black Clay,Rabi,20000,Bangalore Rural,2023-03-30
+Onion,10,2050,Red Loam,Rabi,17000,Chikkaballapur,2023-02-28
+Potato,7,1500,Black Clay,Rabi,22000,Bangalore Rural,2023-01-14
+Groundnut,16,1350,Red Sandy,Summer,5200,Tumakuru,2023-05-15
+Sunflower,15,1300,Red Loam,Summer,3000,Davanagere,2023-04-20
+Coffee,8,1950,Laterite,Whole Year,1320,Chikmagalur,2023-11-15
+Sugarcane,17,1850,Clay,Whole Year,66000,Mandya,2023-12-20
+Rice,14,2500,Clay,Kharif,6400,Bangalore Rural,2023-09-30
+Ragi,12,2350,Red Loam,Kharif,4800,Bangalore Urban,2023-10-30
+Maize,13,2400,Red Sandy,Kharif,6700,Ramanagara,2023-11-30
+Tomato,8,2200,Black Clay,Rabi,20500,Bangalore Rural,2023-04-30
+Onion,9,2150,Red Loam,Rabi,17500,Chikkaballapur,2023-03-30
+Potato,6,1550,Black Clay,Rabi,22500,Bangalore Rural,2023-02-14
+Groundnut,15,1400,Red Sandy,Summer,5400,Tumakuru,2023-06-15
+Sunflower,14,1350,Red Loam,Summer,3100,Davanagere,2023-05-20
+Coffee,7,2000,Laterite,Whole Year,1350,Chikmagalur,2023-12-15
+Sugarcane,16,1900,Clay,Whole Year,67000,Mandya,2023-01-20
+Rice,13,2600,Clay,Kharif,6600,Bangalore Rural,2023-10-30
+Ragi,11,2450,Red Loam,Kharif,5000,Bangalore Urban,2023-11-30
+Maize,12,2500,Red Sandy,Kharif,6900,Ramanagara,2023-12-30
+Tomato,7,2300,Black Clay,Rabi,21000,Bangalore Rural,2023-05-30
+Onion,8,2250,Red Loam,Rabi,18000,Chikkaballapur,2023-04-30
+Potato,5,1600,Black Clay,Rabi,23000,Bangalore Rural,2023-03-14
+Groundnut,14,1450,Red Sandy,Summer,5600,Tumakuru,2023-07-15
+Sunflower,13,1400,Red Loam,Summer,3200,Davanagere,2023-06-20
+Coffee,6,2050,Laterite,Whole Year,1380,Chikmagalur,2023-01-15
+Sugarcane,15,1950,Clay,Whole Year,68000,Mandya,2023-02-20
+Rice,12,2700,Clay,Kharif,6800,Bangalore Rural,2023-11-30
+Ragi,10,2550,Red Loam,Kharif,5200,Bangalore Urban,2023-12-30
+Maize,11,2600,Red Sandy,Kharif,7100,Ramanagara,2023-01-30
+Tomato,6,2400,Black Clay,Rabi,21500,Bangalore Rural,2023-06-30
+Onion,7,2350,Red Loam,Rabi,18500,Chikkaballapur,2023-05-30
+Potato,4,1650,Black Clay,Rabi,23500,Bangalore Rural,2023-04-14
+Groundnut,13,1500,Red Sandy,Summer,5800,Tumakuru,2023-08-15
+Sunflower,12,1450,Red Loam,Summer,3300,Davanagere,2023-07-20
+Coffee,5,2100,Laterite,Whole Year,1400,Chikmagalur,2023-02-15
+Sugarcane,14,2000,Clay,Whole Year,69000,Mandya,2023-03-20
+Rice,11,2800,Clay,Kharif,7000,Bangalore Rural,2023-12-30
+Ragi,9,2650,Red Loam,Kharif,5400,Bangalore Urban,2023-01-30
+Maize,10,2700,Red Sandy,Kharif,7300,Ramanagara,2023-02-28
+Tomato,5,2500,Black Clay,Rabi,22000,Bangalore Rural,2023-07-30
+Onion,6,2450,Red Loam,Rabi,19000,Chikkaballapur,2023-06-30
+Potato,3,1700,Black Clay,Rabi,24000,Bangalore Rural,2023-05-14
+Groundnut,12,1550,Red Sandy,Summer,6000,Tumakuru,2023-09-15
+Sunflower,11,1500,Red Loam,Summer,3400,Davanagere,2023-08-20
+Coffee,4,2150,Laterite,Whole Year,1420,Chikmagalur,2023-03-15
+Sugarcane,13,2050,Clay,Whole Year,70000,Mandya,2023-04-20
+Rice,10,2900,Clay,Kharif,7200,Bangalore Rural,2023-01-30
+Ragi,8,2750,Red Loam,Kharif,5600,Bangalore Urban,2023-02-28
+Maize,9,2800,Red Sandy,Kharif,7500,Ramanagara,2023-03-30
+Tomato,4,2600,Black Clay,Rabi,22500,Bangalore Rural,2023-08-30
+Onion,5,2550,Red Loam,Rabi,19500,Chikkaballapur,2023-07-30
+Potato,2,1750,Black Clay,Rabi,24500,Bangalore Rural,2023-06-14
+Groundnut,11,1600,Red Sandy,Summer,6200,Tumakuru,2023-10-15
+Sunflower,10,1550,Red Loam,Summer,3500,Davanagere,2023-09-20
+Coffee,3,2200,Laterite,Whole Year,1450,Chikmagalur,2023-04-15
+Sugarcane,12,2100,Clay,Whole Year,71000,Mandya,2023-05-20
+Rice,9,3000,Clay,Kharif,7400,Bangalore Rural,2023-02-28
+Ragi,7,2850,Red Loam,Kharif,5800,Bangalore Urban,2023-03-30
+Maize,8,2900,Red Sandy,Kharif,7700,Ramanagara,2023-04-30
+Tomato,3,2700,Black Clay,Rabi,23000,Bangalore Rural,2023-09-30
+Onion,4,2650,Red Loam,Rabi,20000,Chikkaballapur,2023-08-30
+Potato,1,1800,Black Clay,Rabi,25000,Bangalore Rural,2023-07-14
+Groundnut,10,1650,Red Sandy,Summer,6400,Tumakuru,2023-11-15
+Sunflower,9,1600,Red Loam,Summer,3600,Davanagere,2023-10-20
+Coffee,2,2250,Laterite,Whole Year,1480,Chikmagalur,2023-05-15
+Sugarcane,11,2150,Clay,Whole Year,72000,Mandya,2023-06-20
+Rice,8,3100,Clay,Kharif,7600,Bangalore Rural,2023-03-30
+Ragi,6,2950,Red Loam,Kharif,6000,Bangalore Urban,2023-04-30
+Maize,7,3000,Red Sandy,Kharif,7900,Ramanagara,2023-05-30
+Tomato,2,2800,Black Clay,Rabi,23500,Bangalore Rural,2023-10-30
+Onion,3,2750,Red Loam,Rabi,20500,Chikkaballapur,2023-09-30
+Potato,0,1850,Black Clay,Rabi,25500,Bangalore Rural,2023-08-14
+Groundnut,9,1700,Red Sandy,Summer,6600,Tumakuru,2023-12-15
+Sunflower,8,1650,Red Loam,Summer,3700,Davanagere,2023-11-20
+Coffee,1,2300,Laterite,Whole Year,1500,Chikmagalur,2023-06-15
+Sugarcane,10,2200,Clay,Whole Year,73000,Mandya,2023-07-20
+Rice,7,3200,Clay,Kharif,7800,Bangalore Rural,2023-04-30
+Ragi,5,3050,Red Loam,Kharif,6200,Bangalore Urban,2023-05-30
+Maize,6,3100,Red Sandy,Kharif,8100,Ramanagara,2023-06-30
+Tomato,1,2900,Black Clay,Rabi,24000,Bangalore Rural,2023-11-30
+Onion,2,2850,Red Loam,Rabi,21000,Chikkaballapur,2023-10-30
+Potato,-1,1900,Black Clay,Rabi,26000,Bangalore Rural,2023-09-14
+Groundnut,8,1750,Red Sandy,Summer,6800,Tumakuru,2023-01-15
+Sunflower,7,1700,Red Loam,Summer,3800,Davanagere,2023-12-20
+Coffee,0,2350,Laterite,Whole Year,1520,Chikmagalur,2023-07-15
+Sugarcane,9,2250,Clay,Whole Year,74000,Mandya,2023-08-20
+Rice,6,3300,Clay,Kharif,8000,Bangalore Rural,2023-05-30
+Ragi,4,3150,Red Loam,Kharif,6400,Bangalore Urban,2023-06-30
+Maize,5,3200,Red Sandy,Kharif,8300,Ramanagara,2023-07-30
+Tomato,0,3000,Black Clay,Rabi,24500,Bangalore Rural,2023-12-30
+Onion,1,2950,Red Loam,Rabi,21500,Chikkaballapur,2023-11-30
+Potato,-2,1950,Black Clay,Rabi,26500,Bangalore Rural,2023-10-14
+Groundnut,7,1800,Red Sandy,Summer,7000,Tumakuru,2023-02-15
+Sunflower,6,1750,Red Loam,Summer,3900,Davanagere,2023-01-20
+Coffee,-1,2400,Laterite,Whole Year,1550,Chikmagalur,2023-08-15
+Sugarcane,8,2300,Clay,Whole Year,75000,Mandya,2023-09-20
+Rice,5,3400,Clay,Kharif,8200,Bangalore Rural,2023-06-30
+Ragi,3,3250,Red Loam,Kharif,6600,Bangalore Urban,2023-07-30
+Maize,4,3300,Red Sandy,Kharif,8500,Ramanagara,2023-08-30
+Tomato,-1,3100,Black Clay,Rabi,25000,Bangalore Rural,2023-01-30
+Onion,0,3050,Red Loam,Rabi,22000,Chikkaballapur,2023-12-30
+Potato,-3,2000,Black Clay,Rabi,27000,Bangalore Rural,2023-11-14
+Groundnut,6,1850,Red Sandy,Summer,7200,Tumakuru,2023-03-15
+Sunflower,5,1800,Red Loam,Summer,4000,Davanagere,2023-02-20
+Coffee,-2,2450,Laterite,Whole Year,1580,Chikmagalur,2023-09-15
+Sugarcane,7,2350,Clay,Whole Year,76000,Mandya,2023-10-20
+Rice,4,3500,Clay,Kharif,8400,Bangalore Rural,2023-07-30
+Ragi,2,3350,Red Loam,Kharif,6800,Bangalore Urban,2023-08-30
+Maize,3,3400,Red Sandy,Kharif,8700,Ramanagara,2023-09-30
+Tomato,-2,3200,Black Clay,Rabi,25500,Bangalore Rural,2023-02-28
+Onion,-1,3150,Red Loam,Rabi,22500,Chikkaballapur,2023-01-30
+Potato,-4,2050,Black Clay,Rabi,27500,Bangalore Rural,2023-12-14
+Groundnut,5,1900,Red Sandy,Summer,7400,Tumakuru,2023-04-15
+Sunflower,4,1850,Red Loam,Summer,4100,Davanagere,2023-03-20
+Coffee,-3,2500,Laterite,Whole Year,1600,Chikmagalur,2023-10-15
+Sugarcane,6,2400,Clay,Whole Year,77000,Mandya,2023-11-20
+Rice,3,3600,Clay,Kharif,8600,Bangalore Rural,2023-08-30
+Ragi,1,3450,Red Loam,Kharif,7000,Bangalore Urban,2023-09-30
+Maize,2,3500,Red Sandy,Kharif,8900,Ramanagara,2023-10-30
+Tomato,-3,3300,Black Clay,Rabi,26000,Bangalore Rural,2023-03-30
+Onion,-2,3250,Red Loam,Rabi,23000,Chikkaballapur,2023-02-28
+Potato,-5,2100,Black Clay,Rabi,26000,Bangalore Rural,2023-03-30

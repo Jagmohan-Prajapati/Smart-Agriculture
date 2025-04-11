@@ -1,0 +1,42 @@
+version: '3.9'
+
+services:
+  mongo:
+    image: mongo
+    container_name: mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: smartagri-backend
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongo
+    volumes:
+      - ./backend:/app
+      - ./uploads:/app/uploads
+    environment:
+      - MONGO_URL=mongodb://mongo:27017
+
+  # Frontend container
+  frontend:
+    container_name: smartagri-frontend
+    build:
+      context: ./app
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    volumes:
+      - ./app:/app
+    environment:
+      - NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
+
+volumes:
+  mongo_data:
